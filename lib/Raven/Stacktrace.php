@@ -4,7 +4,7 @@
  *
  * @package raven
  */
-class Raven_Stacktrace
+class Stacktrace
 {
     public static $statements = array(
         'include',
